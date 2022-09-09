@@ -3,7 +3,9 @@
 /*
  * main - Prints the alphabetic
  *
- * Return: Always (Success)
+ * Description: using the main function
+ * this program prints "Programming"
+ * Return: 0
  */
 int main(void)
 {
