@@ -5,7 +5,8 @@
 /**
 * main - Prints if number is positive, zero or negative
 *
-* Return: Always (Success)
+* Description: using the main function
+* Return: 0
 */
 int main(void)
 {
