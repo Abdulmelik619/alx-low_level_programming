@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Prints the alphabetic
  *
  * Description: using the main function
