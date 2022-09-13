@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main: ahvafjhvccmnvbvbk
  *
@@ -7,6 +7,15 @@
  */
 int main(void)
 {
-printf("_putchar");
+char *sh ="_putchar"
+
+while (*sh)	
+{
+_putchar(*sh);
+sh++;
+}
+
+_putchar('\n');
+return (0);
 }
 
