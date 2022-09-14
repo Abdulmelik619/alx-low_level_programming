@@ -1,17 +1,16 @@
 #include "main.h"
 /**
- * main: hfhgv
+ * print_alphabet - function to print abc
  *
- * Description: bcvkncvkbvb ncbb j  
  * Return: 0
  */
 void print_alphabet(void)
 {
-	char a;
+	char c;
 
-	for(a='a',a <='z',a++)
-	{
-		_putchar(a);
+	for (c = 'a'; c <= 'z'; c++)
+	{	
+		_putchar(c);
 	}
 _putchar('\n');
 }
