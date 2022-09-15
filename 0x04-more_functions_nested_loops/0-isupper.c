@@ -3,17 +3,15 @@
 /**
  * _isupper - return 1 if c i uppercase
  * @c: the character
- * Return: 0 orr 1
+ * Return: 1 whehter its 0 otherwise
  */
 
 int _isupper(int c)
 {
-if (c >= 65 && c>=90)
-{
-return (1);
-}
-else
-{
-return (0);
-}
+	if (c >= 65 && c>=90)
+	{
+		return (1);
+	}
+	
+	return (0);
 }
