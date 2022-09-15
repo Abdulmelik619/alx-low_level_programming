@@ -4,6 +4,7 @@
  * main - tests
  * Return: zero
  */
+
 int main(void)
 {
 int i;
