@@ -2,20 +2,17 @@
 
 /**
  * print_numbers - ohfksbcxxcvckb
- *Return: void
+ *
+ * Return: void
  */
 
 void print_numbers(void)
 {
-int i;
-i=0;
+	int n;
 
-while(i<10)
-{
-_putchar(i);
-i++;
-}
-
-_putchar('\n');
-
+	for (n = 48; n < 58; n++)
+	{
+		_putchar(n);
+	}
+	_putchar('\n');
 }
